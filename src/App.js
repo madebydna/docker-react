@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Hi There</h1>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Have a nice day :)
         </p>
         <a
           className="App-link"
